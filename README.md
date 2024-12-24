@@ -1,5 +1,6 @@
 🔭  I’m Actively engaged in developing innovative projects centered on consumer insights and people information, leveraging cutting-edge technologies like Node.js, React, TypeScript, Next.js, and NoSQL to deliver impactful and scalable solutions.
-🌱  I’m currently learning and mastering Python, Machine Learning and Artificial Intelligence database.
+
+🌱  I’m currently learning and mastering Python, ML & AI.
 
 👯  I’m looking to collaborate on Machine Learning and Artificial Intelligence projects.
 
