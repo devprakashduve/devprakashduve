@@ -1,4 +1,4 @@
-🔭  I’m currently working on networks of websites for consumers and people information by Java & Next.js. 
+🔭  I’m currently working on networks of websites for consumers and people information by Node.Js & Next.js. 
 
 🌱  I’m currently learning and mastering Angular, React, Next.js, Tailwindcss, and MongoDB database.
 
