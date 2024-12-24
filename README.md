@@ -1,10 +1,10 @@
-🔭  I’m currently working on networks of websites for consumers and people information by Node.Js & Next.js. 
+🔭  I’m currently working on networks of websites for consumers and people information by Node.Js, React, Typescript, Next.js & NoSQL. 
 
-🌱  I’m currently learning and mastering Angular, React, Next.js, Tailwindcss, and MongoDB database.
+🌱  I’m currently learning and mastering Python, Machine Learning and Artificial Intelligence database.
 
-👯  I’m looking to collaborate on the Next.js project OR React.js.
+👯  I’m looking to collaborate on Machine Learning and Artificial Intelligence projects.
 
-🤔  I’m looking for Next.js efficient design and deployment solutions.
+🤔  I’m looking for library efficient design and deployment solutions.
 
 💬  Ask me about creating a website for you and your business.
 
